@@ -33,18 +33,18 @@ Govt_Invoice is a versatile mobile application built using React Native and Expo
 - Firebase (for user authentication)
 
 ## PPT (Power Point Presentation)
--It also has been uploaded
--you can checkout the ppt to get more understanding of the app
--It has got the screenshots of the app
+- It also has been uploaded
+- You can checkout the ppt to get more understanding of the app
+- It has got the screenshots of the app
 
 
-#Team Member (Contributors)
--Sakeeb Hasan
--Abhay Prajapati
--Vaibhav Aggarwal
--Khushi
--Utkarsh Kumar
--Md. Ashraf
+## Team Member (Contributors)
+- Sakeeb Hasan
+- Abhay Prajapati
+- Vaibhav Aggarwal
+- Khushi
+- Utkarsh Kumar
+- Md. Ashraf
 
 
 Thank you for using Govt_Invoice!
